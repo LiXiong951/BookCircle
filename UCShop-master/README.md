@@ -1,11 +1,8 @@
-# ShoppingWebSite
-Spring and Hibernate based Shopping and Ordering System and Ads System <br />
-
-•Used Spring Framework to build a web application for users to shop and order items online and ads will be displayed <br />
-•Utilized Spring-AOP (Aspect Oriented Programming) and Inversion of Control & Dependency Injection <br />
-•Engineered Spring MVC to support DispatcherServlet, HandlerMapping, Controller, ModelAndView and ViewResolver <br />
-•Developed Spring Web Flow to support item ordering and checking out and gained reliability with efficiency <br />
-•Used Spring Security to implement OAuth2 based authentication and improved reliability of ordering and checking <br />
-•Utilized Hibernate to map object-oriented domain models to relational database tables (SessionFactory, Session, Transaction) <br />
-•Created Ads System using Java Servlet and MySQL (Advertiser, Ads, Budget and Bid) and tested by Postman <br />
-•Developed Ads Bidding Algorithm to optimize bid and guaranteed both Advertisers and Publishers will benefit from Visitors <br />
+BookCircle
+- Developed an interactive website via Spring MVC for users to view book lists, get recommendations and purchase books 
+- Developed filtering and sorting algorithms to improve book recommendations based on searching history and favorite records
+- Utilized React to implement main features including registration, login/logout, view book lists, ordering & checkout
+- Utilized MongoDB to store data information and built object-oriented domain models to relevant database tables with Hibernate
+- Used Spring Security to provide OAuth2 based authentication and authorization to improve safety level and prevent malicious attacks
+- Created an ads system using Java Servlet and MySQL to help publishers benefit from users
+- Tested by Postman and deployed the server to Amazon Web Service(AWS) 
